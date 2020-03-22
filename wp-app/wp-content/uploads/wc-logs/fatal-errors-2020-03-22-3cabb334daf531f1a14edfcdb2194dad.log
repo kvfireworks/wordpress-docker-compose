@@ -1,0 +1,70 @@
+2020-03-22T17:09:20+00:00 CRITICAL Uncaught Error: Call to undefined function storefront_categorized_blog() in /var/www/html/wp-content/themes/woot/inc/woot-template-functions.php:259
+Stack trace:
+#0 /var/www/html/wp-includes/class-wp-hook.php(288): woot_post_header('')
+#1 /var/www/html/wp-includes/class-wp-hook.php(312): WP_Hook->apply_filters('', Array)
+#2 /var/www/html/wp-includes/plugin.php(478): WP_Hook->do_action(Array)
+#3 /var/www/html/wp-content/themes/woot/content-blog.php(24): do_action('woot_blog_index...')
+#4 /var/www/html/wp-includes/template.php(724): require('/var/www/html/w...')
+#5 /var/www/html/wp-includes/template.php(671): load_template('/var/www/html/w...', false)
+#6 /var/www/html/wp-includes/general-template.php(168): locate_template(Array, true, false)
+#7 /var/www/html/wp-content/themes/woot/index.php(27): get_template_part('content', 'blog')
+#8 /var/www/html/wp-includes/template-loader.php(98): include('/var/www/html/w...')
+#9 /var/www/html/wp-blog-header.php(19): require_once('/var/www/html/w...')
+#10 /var/www/html/inde in /var/www/html/wp-content/themes/woot/inc/woot-template-functions.php on line 259
+
+2020-03-22T17:09:33+00:00 CRITICAL Uncaught Error: Call to undefined function storefront_categorized_blog() in /var/www/html/wp-content/themes/woot/inc/woot-template-functions.php:259
+Stack trace:
+#0 /var/www/html/wp-includes/class-wp-hook.php(288): woot_post_header('')
+#1 /var/www/html/wp-includes/class-wp-hook.php(312): WP_Hook->apply_filters('', Array)
+#2 /var/www/html/wp-includes/plugin.php(478): WP_Hook->do_action(Array)
+#3 /var/www/html/wp-content/themes/woot/content-blog.php(24): do_action('woot_blog_index...')
+#4 /var/www/html/wp-includes/template.php(724): require('/var/www/html/w...')
+#5 /var/www/html/wp-includes/template.php(671): load_template('/var/www/html/w...', false)
+#6 /var/www/html/wp-includes/general-template.php(168): locate_template(Array, true, false)
+#7 /var/www/html/wp-content/themes/woot/index.php(27): get_template_part('content', 'blog')
+#8 /var/www/html/wp-includes/template-loader.php(98): include('/var/www/html/w...')
+#9 /var/www/html/wp-blog-header.php(19): require_once('/var/www/html/w...')
+#10 /var/www/html/inde in /var/www/html/wp-content/themes/woot/inc/woot-template-functions.php on line 259
+
+2020-03-22T17:09:59+00:00 CRITICAL Uncaught Error: Call to undefined function storefront_categorized_blog() in /var/www/html/wp-content/themes/woot/inc/woot-template-functions.php:259
+Stack trace:
+#0 /var/www/html/wp-includes/class-wp-hook.php(288): woot_post_header('')
+#1 /var/www/html/wp-includes/class-wp-hook.php(312): WP_Hook->apply_filters('', Array)
+#2 /var/www/html/wp-includes/plugin.php(478): WP_Hook->do_action(Array)
+#3 /var/www/html/wp-content/themes/woot/content-blog.php(24): do_action('woot_blog_index...')
+#4 /var/www/html/wp-includes/template.php(724): require('/var/www/html/w...')
+#5 /var/www/html/wp-includes/template.php(671): load_template('/var/www/html/w...', false)
+#6 /var/www/html/wp-includes/general-template.php(168): locate_template(Array, true, false)
+#7 /var/www/html/wp-content/themes/woot/index.php(27): get_template_part('content', 'blog')
+#8 /var/www/html/wp-includes/template-loader.php(98): include('/var/www/html/w...')
+#9 /var/www/html/wp-blog-header.php(19): require_once('/var/www/html/w...')
+#10 /var/www/html/inde in /var/www/html/wp-content/themes/woot/inc/woot-template-functions.php on line 259
+
+2020-03-22T17:13:31+00:00 CRITICAL Uncaught Error: Call to undefined function storefront_categorized_blog() in /var/www/html/wp-content/themes/woot/inc/woot-template-functions.php:259
+Stack trace:
+#0 /var/www/html/wp-includes/class-wp-hook.php(288): woot_post_header('')
+#1 /var/www/html/wp-includes/class-wp-hook.php(312): WP_Hook->apply_filters('', Array)
+#2 /var/www/html/wp-includes/plugin.php(478): WP_Hook->do_action(Array)
+#3 /var/www/html/wp-content/themes/woot/content-blog.php(24): do_action('woot_blog_index...')
+#4 /var/www/html/wp-includes/template.php(724): require('/var/www/html/w...')
+#5 /var/www/html/wp-includes/template.php(671): load_template('/var/www/html/w...', false)
+#6 /var/www/html/wp-includes/general-template.php(168): locate_template(Array, true, false)
+#7 /var/www/html/wp-content/themes/woot/index.php(27): get_template_part('content', 'blog')
+#8 /var/www/html/wp-includes/template-loader.php(98): include('/var/www/html/w...')
+#9 /var/www/html/wp-blog-header.php(19): require_once('/var/www/html/w...')
+#10 /var/www/html/inde in /var/www/html/wp-content/themes/woot/inc/woot-template-functions.php on line 259
+
+2020-03-22T17:18:34+00:00 CRITICAL Uncaught Error: Call to undefined function storefront_categorized_blog() in /var/www/html/wp-content/themes/woot/inc/woot-template-functions.php:259
+Stack trace:
+#0 /var/www/html/wp-includes/class-wp-hook.php(288): woot_post_header('')
+#1 /var/www/html/wp-includes/class-wp-hook.php(312): WP_Hook->apply_filters('', Array)
+#2 /var/www/html/wp-includes/plugin.php(478): WP_Hook->do_action(Array)
+#3 /var/www/html/wp-content/themes/woot/content-blog.php(24): do_action('woot_blog_index...')
+#4 /var/www/html/wp-includes/template.php(724): require('/var/www/html/w...')
+#5 /var/www/html/wp-includes/template.php(671): load_template('/var/www/html/w...', false)
+#6 /var/www/html/wp-includes/general-template.php(168): locate_template(Array, true, false)
+#7 /var/www/html/wp-content/themes/woot/index.php(27): get_template_part('content', 'blog')
+#8 /var/www/html/wp-includes/template-loader.php(98): include('/var/www/html/w...')
+#9 /var/www/html/wp-blog-header.php(19): require_once('/var/www/html/w...')
+#10 /var/www/html/inde in /var/www/html/wp-content/themes/woot/inc/woot-template-functions.php on line 259
+
