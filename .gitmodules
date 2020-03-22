@@ -1,0 +1,5 @@
+[submodule "wordpress-app"]
+	path = wp-app
+	url = ../wordpress-app
+
+
